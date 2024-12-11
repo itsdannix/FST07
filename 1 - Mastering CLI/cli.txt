@@ -1,0 +1,23 @@
+Create a Dictory / Folder
+-mkdir
+
+Remove a Directory / Folder
+-rmdir
+
+Changing Directory / Folder
+-cd [Directory/Folder Name]
+
+Go back to the Folder
+-cd ..
+
+Creating a File
+- touch [filename.extension]
+
+Removing a File
+-rm [filename.extension]
+
+Clearing the terminal
+-clear
+
+Looking at the list of the Dictory/Folder
+-ls
